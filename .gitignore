@@ -1,0 +1,31 @@
+# Local project media and generated work
+reels/
+reports/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.wav
+!brand/sfx/*.wav
+*.jpg
+*.jpeg
+*.png
+
+# Local configuration, model/cache data, and runtimes
+.env
+.env.*
+!.env.example
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+studio/node_modules/
+*.npy
+.video-editing-workflow/

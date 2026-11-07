@@ -1,0 +1,23 @@
+{
+  "_about": "Approved font families (all OFL-1.1, installed via Fontsource) and pairing sets. The Director picks one pairing per Reel; captions may use the pairing's caption family. `key` is what studio code and CaptionTreatment reference.",
+  "families": {
+    "inter": { "css": "Inter Variable", "package": "@fontsource-variable/inter", "role": ["body", "ui", "caption"], "weights": "100-900" },
+    "poppins": { "css": "Poppins", "package": "@fontsource/poppins", "role": ["display", "caption"], "weights": [400, 500, 600, 700, 800, 900] },
+    "spaceGrotesk": { "css": "Space Grotesk Variable", "package": "@fontsource-variable/space-grotesk", "role": ["display", "tech", "caption"], "weights": "300-700" },
+    "montserrat": { "css": "Montserrat Variable", "package": "@fontsource-variable/montserrat", "role": ["display", "caption"], "weights": "100-900" },
+    "anton": { "css": "Anton", "package": "@fontsource/anton", "role": ["impact", "hook"], "weights": [400] },
+    "bebasNeue": { "css": "Bebas Neue", "package": "@fontsource/bebas-neue", "role": ["impact", "label"], "weights": [400] },
+    "jetbrainsMono": { "css": "JetBrains Mono Variable", "package": "@fontsource-variable/jetbrains-mono", "role": ["code", "terminal"], "weights": "100-800" },
+    "firaCode": { "css": "Fira Code Variable", "package": "@fontsource-variable/fira-code", "role": ["code"], "weights": "300-700" },
+    "notoSansTelugu": { "css": "Noto Sans Telugu Variable", "package": "@fontsource-variable/noto-sans-telugu", "role": ["telugu", "body"], "weights": "100-900" },
+    "balooTammudu": { "css": "Baloo Tammudu 2 Variable", "package": "@fontsource-variable/baloo-tammudu-2", "role": ["telugu", "display"], "weights": "400-800" }
+  },
+  "pairings": {
+    "_about": "display = titles/hooks, body = labels/explanations, caption = default caption family, code = code blocks, telugu = Telugu-script fallback",
+    "techClean": { "display": "spaceGrotesk", "body": "inter", "caption": "inter", "code": "jetbrainsMono", "telugu": "notoSansTelugu" },
+    "boldHook": { "display": "anton", "body": "inter", "caption": "poppins", "code": "jetbrainsMono", "telugu": "balooTammudu" },
+    "friendly": { "display": "poppins", "body": "poppins", "caption": "poppins", "code": "firaCode", "telugu": "balooTammudu" },
+    "editorial": { "display": "montserrat", "body": "inter", "caption": "montserrat", "code": "jetbrainsMono", "telugu": "notoSansTelugu" },
+    "poster": { "display": "bebasNeue", "body": "spaceGrotesk", "caption": "spaceGrotesk", "code": "firaCode", "telugu": "notoSansTelugu" }
+  }
+}

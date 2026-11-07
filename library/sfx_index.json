@@ -1,0 +1,917 @@
+{
+  "_about": "Generic sound-effect index with source and licence data; see LICENSE for third-party asset terms.",
+  "peak_dbfs": -3.0,
+  "sample_rate": 48000,
+  "clips": [
+    {
+      "id": "bong_01",
+      "file": "brand/sfx/bong_01.wav",
+      "role": "bong",
+      "tags": [
+        "notification"
+      ],
+      "duration_s": 0.12,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "click_01",
+      "file": "brand/sfx/click_01.wav",
+      "role": "click",
+      "tags": [
+        "ui",
+        "light",
+        "tap"
+      ],
+      "duration_s": 0.097,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "click_02",
+      "file": "brand/sfx/click_02.wav",
+      "role": "click",
+      "tags": [
+        "ui",
+        "light",
+        "tap"
+      ],
+      "duration_s": 0.012,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "click_03",
+      "file": "brand/sfx/click_03.wav",
+      "role": "click",
+      "tags": [
+        "ui",
+        "light",
+        "tap"
+      ],
+      "duration_s": 0.007,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "click_04",
+      "file": "brand/sfx/click_04.wav",
+      "role": "click",
+      "tags": [
+        "ui",
+        "light",
+        "tap"
+      ],
+      "duration_s": 0.007,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "click_05",
+      "file": "brand/sfx/click_05.wav",
+      "role": "click",
+      "tags": [
+        "ui",
+        "soft",
+        "tap"
+      ],
+      "duration_s": 0.091,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "click_06",
+      "file": "brand/sfx/click_06.wav",
+      "role": "click",
+      "tags": [
+        "ui",
+        "soft",
+        "tap"
+      ],
+      "duration_s": 0.053,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "click_07",
+      "file": "brand/sfx/click_07.wav",
+      "role": "click",
+      "tags": [
+        "ui",
+        "soft",
+        "tap"
+      ],
+      "duration_s": 0.062,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "close_01",
+      "file": "brand/sfx/close_01.wav",
+      "role": "close",
+      "tags": [
+        "hide",
+        "collapse"
+      ],
+      "duration_s": 0.254,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "close_02",
+      "file": "brand/sfx/close_02.wav",
+      "role": "close",
+      "tags": [
+        "hide",
+        "collapse"
+      ],
+      "duration_s": 0.255,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "close_03",
+      "file": "brand/sfx/close_03.wav",
+      "role": "close",
+      "tags": [
+        "hide",
+        "collapse"
+      ],
+      "duration_s": 0.204,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "confirm_01",
+      "file": "brand/sfx/confirm_01.wav",
+      "role": "confirm",
+      "tags": [
+        "success",
+        "positive",
+        "musical"
+      ],
+      "duration_s": 0.286,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "confirm_02",
+      "file": "brand/sfx/confirm_02.wav",
+      "role": "confirm",
+      "tags": [
+        "success",
+        "positive",
+        "musical"
+      ],
+      "duration_s": 0.521,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "confirm_03",
+      "file": "brand/sfx/confirm_03.wav",
+      "role": "confirm",
+      "tags": [
+        "success",
+        "positive",
+        "musical"
+      ],
+      "duration_s": 0.314,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "confirm_04",
+      "file": "brand/sfx/confirm_04.wav",
+      "role": "confirm",
+      "tags": [
+        "success",
+        "positive",
+        "musical"
+      ],
+      "duration_s": 0.481,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "ding_01",
+      "file": "brand/sfx/ding_01.wav",
+      "role": "ding",
+      "tags": [
+        "success",
+        "bright",
+        "musical"
+      ],
+      "duration_s": 0.9,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "ding_02",
+      "file": "brand/sfx/ding_02.wav",
+      "role": "ding",
+      "tags": [
+        "notification",
+        "soft",
+        "musical"
+      ],
+      "duration_s": 0.8,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "error_01",
+      "file": "brand/sfx/error_01.wav",
+      "role": "error",
+      "tags": [
+        "wrong",
+        "negative",
+        "buzz"
+      ],
+      "duration_s": 0.162,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "error_02",
+      "file": "brand/sfx/error_02.wav",
+      "role": "error",
+      "tags": [
+        "wrong",
+        "negative",
+        "buzz"
+      ],
+      "duration_s": 0.165,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "error_03",
+      "file": "brand/sfx/error_03.wav",
+      "role": "error",
+      "tags": [
+        "wrong",
+        "negative",
+        "buzz"
+      ],
+      "duration_s": 0.339,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "error_04",
+      "file": "brand/sfx/error_04.wav",
+      "role": "error",
+      "tags": [
+        "wrong",
+        "negative",
+        "buzz"
+      ],
+      "duration_s": 0.104,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "fall_short_01",
+      "file": "brand/sfx/fall_short_01.wav",
+      "role": "fall_short",
+      "tags": [
+        "digital",
+        "down"
+      ],
+      "duration_s": 0.352,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "fall_short_02",
+      "file": "brand/sfx/fall_short_02.wav",
+      "role": "fall_short",
+      "tags": [
+        "digital",
+        "down"
+      ],
+      "duration_s": 0.25,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "glitch_01",
+      "file": "brand/sfx/glitch_01.wav",
+      "role": "glitch",
+      "tags": [
+        "tech",
+        "digital",
+        "transition"
+      ],
+      "duration_s": 0.017,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "glitch_02",
+      "file": "brand/sfx/glitch_02.wav",
+      "role": "glitch",
+      "tags": [
+        "tech",
+        "digital",
+        "transition"
+      ],
+      "duration_s": 0.027,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "glitch_03",
+      "file": "brand/sfx/glitch_03.wav",
+      "role": "glitch",
+      "tags": [
+        "tech",
+        "digital",
+        "transition"
+      ],
+      "duration_s": 0.012,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "glitch_04",
+      "file": "brand/sfx/glitch_04.wav",
+      "role": "glitch",
+      "tags": [
+        "tech",
+        "digital",
+        "transition"
+      ],
+      "duration_s": 0.02,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_bell_01",
+      "file": "brand/sfx/impact_bell_01.wav",
+      "role": "impact_bell",
+      "tags": [
+        "hit"
+      ],
+      "duration_s": 1.186,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_metal_01",
+      "file": "brand/sfx/impact_metal_01.wav",
+      "role": "impact_metal",
+      "tags": [
+        "hit",
+        "metallic",
+        "tech"
+      ],
+      "duration_s": 0.22,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_metal_02",
+      "file": "brand/sfx/impact_metal_02.wav",
+      "role": "impact_metal",
+      "tags": [
+        "hit",
+        "metallic",
+        "tech"
+      ],
+      "duration_s": 0.249,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_punch_01",
+      "file": "brand/sfx/impact_punch_01.wav",
+      "role": "impact_punch",
+      "tags": [
+        "hit",
+        "strong",
+        "emphasis"
+      ],
+      "duration_s": 0.498,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_punch_02",
+      "file": "brand/sfx/impact_punch_02.wav",
+      "role": "impact_punch",
+      "tags": [
+        "hit",
+        "strong",
+        "emphasis"
+      ],
+      "duration_s": 0.413,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_soft_01",
+      "file": "brand/sfx/impact_soft_01.wav",
+      "role": "impact_soft",
+      "tags": [
+        "hit",
+        "soft",
+        "text-land"
+      ],
+      "duration_s": 0.115,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_soft_02",
+      "file": "brand/sfx/impact_soft_02.wav",
+      "role": "impact_soft",
+      "tags": [
+        "hit",
+        "soft",
+        "text-land"
+      ],
+      "duration_s": 0.18,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_soft_03",
+      "file": "brand/sfx/impact_soft_03.wav",
+      "role": "impact_soft",
+      "tags": [
+        "hit",
+        "thud",
+        "emphasis"
+      ],
+      "duration_s": 0.505,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "impact_soft_04",
+      "file": "brand/sfx/impact_soft_04.wav",
+      "role": "impact_soft",
+      "tags": [
+        "hit",
+        "thud",
+        "emphasis"
+      ],
+      "duration_s": 0.569,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "open_01",
+      "file": "brand/sfx/open_01.wav",
+      "role": "open",
+      "tags": [
+        "reveal",
+        "expand"
+      ],
+      "duration_s": 0.254,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "open_02",
+      "file": "brand/sfx/open_02.wav",
+      "role": "open",
+      "tags": [
+        "reveal",
+        "expand"
+      ],
+      "duration_s": 0.255,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "open_03",
+      "file": "brand/sfx/open_03.wav",
+      "role": "open",
+      "tags": [
+        "reveal",
+        "expand"
+      ],
+      "duration_s": 0.204,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "pop_01",
+      "file": "brand/sfx/pop_01.wav",
+      "role": "pop",
+      "tags": [
+        "appear",
+        "bubble",
+        "light"
+      ],
+      "duration_s": 0.108,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "pop_02",
+      "file": "brand/sfx/pop_02.wav",
+      "role": "pop",
+      "tags": [
+        "appear",
+        "bubble",
+        "light"
+      ],
+      "duration_s": 0.188,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "pop_03",
+      "file": "brand/sfx/pop_03.wav",
+      "role": "pop",
+      "tags": [
+        "appear",
+        "bubble",
+        "light"
+      ],
+      "duration_s": 0.188,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "pop_04",
+      "file": "brand/sfx/pop_04.wav",
+      "role": "pop",
+      "tags": [
+        "appear",
+        "bubble",
+        "light"
+      ],
+      "duration_s": 0.284,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "pop_05",
+      "file": "brand/sfx/pop_05.wav",
+      "role": "pop",
+      "tags": [
+        "appear",
+        "pluck",
+        "musical"
+      ],
+      "duration_s": 0.1,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "pop_06",
+      "file": "brand/sfx/pop_06.wav",
+      "role": "pop",
+      "tags": [
+        "appear",
+        "pluck",
+        "musical"
+      ],
+      "duration_s": 0.112,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "powerup_01",
+      "file": "brand/sfx/powerup_01.wav",
+      "role": "powerup",
+      "tags": [
+        "success",
+        "level-up",
+        "game"
+      ],
+      "duration_s": 0.951,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "powerup_02",
+      "file": "brand/sfx/powerup_02.wav",
+      "role": "powerup",
+      "tags": [
+        "success",
+        "level-up",
+        "game"
+      ],
+      "duration_s": 0.36,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "powerup_03",
+      "file": "brand/sfx/powerup_03.wav",
+      "role": "powerup",
+      "tags": [
+        "success",
+        "level-up",
+        "game"
+      ],
+      "duration_s": 0.434,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "question_01",
+      "file": "brand/sfx/question_01.wav",
+      "role": "question",
+      "tags": [
+        "curious",
+        "hook",
+        "musical"
+      ],
+      "duration_s": 0.481,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "question_02",
+      "file": "brand/sfx/question_02.wav",
+      "role": "question",
+      "tags": [
+        "curious",
+        "hook",
+        "musical"
+      ],
+      "duration_s": 0.326,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "question_03",
+      "file": "brand/sfx/question_03.wav",
+      "role": "question",
+      "tags": [
+        "curious",
+        "hook",
+        "musical"
+      ],
+      "duration_s": 0.327,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "rise_short_01",
+      "file": "brand/sfx/rise_short_01.wav",
+      "role": "rise_short",
+      "tags": [
+        "digital",
+        "up",
+        "build"
+      ],
+      "duration_s": 0.386,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "rise_short_02",
+      "file": "brand/sfx/rise_short_02.wav",
+      "role": "rise_short",
+      "tags": [
+        "digital",
+        "up",
+        "build"
+      ],
+      "duration_s": 0.308,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "rise_short_03",
+      "file": "brand/sfx/rise_short_03.wav",
+      "role": "rise_short",
+      "tags": [
+        "digital",
+        "up",
+        "build"
+      ],
+      "duration_s": 0.377,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "riser_01",
+      "file": "brand/sfx/riser_01.wav",
+      "role": "riser",
+      "tags": [
+        "build-up",
+        "tension",
+        "tonal"
+      ],
+      "duration_s": 0.961,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "riser_02",
+      "file": "brand/sfx/riser_02.wav",
+      "role": "riser",
+      "tags": [
+        "build-up",
+        "noise",
+        "airy"
+      ],
+      "duration_s": 0.608,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "scratch_01",
+      "file": "brand/sfx/scratch_01.wav",
+      "role": "scratch",
+      "tags": [
+        "stop",
+        "rewind",
+        "comedic"
+      ],
+      "duration_s": 0.122,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "scratch_02",
+      "file": "brand/sfx/scratch_02.wav",
+      "role": "scratch",
+      "tags": [
+        "stop",
+        "rewind",
+        "comedic"
+      ],
+      "duration_s": 0.122,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "select_01",
+      "file": "brand/sfx/select_01.wav",
+      "role": "select",
+      "tags": [
+        "ui",
+        "highlight"
+      ],
+      "duration_s": 0.036,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "select_02",
+      "file": "brand/sfx/select_02.wav",
+      "role": "select",
+      "tags": [
+        "ui",
+        "highlight"
+      ],
+      "duration_s": 0.04,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "select_03",
+      "file": "brand/sfx/select_03.wav",
+      "role": "select",
+      "tags": [
+        "ui",
+        "highlight"
+      ],
+      "duration_s": 0.203,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "select_04",
+      "file": "brand/sfx/select_04.wav",
+      "role": "select",
+      "tags": [
+        "ui",
+        "highlight"
+      ],
+      "duration_s": 0.201,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "sub_hit_01",
+      "file": "brand/sfx/sub_hit_01.wav",
+      "role": "sub_hit",
+      "tags": [
+        "hit"
+      ],
+      "duration_s": 0.999,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "tick_01",
+      "file": "brand/sfx/tick_01.wav",
+      "role": "tick",
+      "tags": [
+        "ui",
+        "tiny",
+        "counter"
+      ],
+      "duration_s": 0.008,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "tick_02",
+      "file": "brand/sfx/tick_02.wav",
+      "role": "tick",
+      "tags": [
+        "ui",
+        "tiny",
+        "counter"
+      ],
+      "duration_s": 0.02,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "tick_03",
+      "file": "brand/sfx/tick_03.wav",
+      "role": "tick",
+      "tags": [
+        "ui",
+        "tiny",
+        "counter"
+      ],
+      "duration_s": 0.055,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "tick_soft_01",
+      "file": "brand/sfx/tick_soft_01.wav",
+      "role": "tick_soft",
+      "tags": [
+        "counter"
+      ],
+      "duration_s": 0.054,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "toggle_01",
+      "file": "brand/sfx/toggle_01.wav",
+      "role": "toggle",
+      "tags": [
+        "ui",
+        "switch"
+      ],
+      "duration_s": 0.097,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "toggle_02",
+      "file": "brand/sfx/toggle_02.wav",
+      "role": "toggle",
+      "tags": [
+        "ui",
+        "switch"
+      ],
+      "duration_s": 0.095,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "tone_01",
+      "file": "brand/sfx/tone_01.wav",
+      "role": "tone",
+      "tags": [
+        "digital",
+        "notification"
+      ],
+      "duration_s": 0.363,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "tone_02",
+      "file": "brand/sfx/tone_02.wav",
+      "role": "tone",
+      "tags": [
+        "digital",
+        "notification"
+      ],
+      "duration_s": 0.384,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "typing_01",
+      "file": "brand/sfx/typing_01.wav",
+      "role": "typing",
+      "tags": [
+        "keyboard"
+      ],
+      "duration_s": 1.167,
+      "origin": "assembled from Kenney CC0 clicks"
+    },
+    {
+      "id": "whoosh_01",
+      "file": "brand/sfx/whoosh_01.wav",
+      "role": "whoosh",
+      "tags": [
+        "transition",
+        "fast",
+        "air"
+      ],
+      "duration_s": 0.155,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "whoosh_02",
+      "file": "brand/sfx/whoosh_02.wav",
+      "role": "whoosh",
+      "tags": [
+        "transition",
+        "smooth",
+        "air"
+      ],
+      "duration_s": 0.781,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "whoosh_03",
+      "file": "brand/sfx/whoosh_03.wav",
+      "role": "whoosh",
+      "tags": [
+        "transition",
+        "short",
+        "deep"
+      ],
+      "duration_s": 0.247,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "whoosh_04",
+      "file": "brand/sfx/whoosh_04.wav",
+      "role": "whoosh",
+      "tags": [
+        "transition",
+        "swish",
+        "bright"
+      ],
+      "duration_s": 0.342,
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)"
+    },
+    {
+      "id": "zap_01",
+      "file": "brand/sfx/zap_01.wav",
+      "role": "zap",
+      "tags": [
+        "digital",
+        "energy",
+        "transition"
+      ],
+      "duration_s": 0.891,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    },
+    {
+      "id": "zap_02",
+      "file": "brand/sfx/zap_02.wav",
+      "role": "zap",
+      "tags": [
+        "digital",
+        "energy",
+        "transition"
+      ],
+      "duration_s": 1.15,
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "_about": "Licence register for generic bundled assets. User-added assets are registered here by the pipeline.",
+  "assets": {
+    "sfx:bong_01": {
+      "id": "sfx:bong_01",
+      "kind": "sfx",
+      "path": "brand/sfx/bong_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:click_01": {
+      "id": "sfx:click_01",
+      "kind": "sfx",
+      "path": "brand/sfx/click_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:click_02": {
+      "id": "sfx:click_02",
+      "kind": "sfx",
+      "path": "brand/sfx/click_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:click_03": {
+      "id": "sfx:click_03",
+      "kind": "sfx",
+      "path": "brand/sfx/click_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:click_04": {
+      "id": "sfx:click_04",
+      "kind": "sfx",
+      "path": "brand/sfx/click_04.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:click_05": {
+      "id": "sfx:click_05",
+      "kind": "sfx",
+      "path": "brand/sfx/click_05.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:click_06": {
+      "id": "sfx:click_06",
+      "kind": "sfx",
+      "path": "brand/sfx/click_06.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:click_07": {
+      "id": "sfx:click_07",
+      "kind": "sfx",
+      "path": "brand/sfx/click_07.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:close_01": {
+      "id": "sfx:close_01",
+      "kind": "sfx",
+      "path": "brand/sfx/close_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:close_02": {
+      "id": "sfx:close_02",
+      "kind": "sfx",
+      "path": "brand/sfx/close_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:close_03": {
+      "id": "sfx:close_03",
+      "kind": "sfx",
+      "path": "brand/sfx/close_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:confirm_01": {
+      "id": "sfx:confirm_01",
+      "kind": "sfx",
+      "path": "brand/sfx/confirm_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:confirm_02": {
+      "id": "sfx:confirm_02",
+      "kind": "sfx",
+      "path": "brand/sfx/confirm_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:confirm_03": {
+      "id": "sfx:confirm_03",
+      "kind": "sfx",
+      "path": "brand/sfx/confirm_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:confirm_04": {
+      "id": "sfx:confirm_04",
+      "kind": "sfx",
+      "path": "brand/sfx/confirm_04.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:ding_01": {
+      "id": "sfx:ding_01",
+      "kind": "sfx",
+      "path": "brand/sfx/ding_01.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:ding_02": {
+      "id": "sfx:ding_02",
+      "kind": "sfx",
+      "path": "brand/sfx/ding_02.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:error_01": {
+      "id": "sfx:error_01",
+      "kind": "sfx",
+      "path": "brand/sfx/error_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:error_02": {
+      "id": "sfx:error_02",
+      "kind": "sfx",
+      "path": "brand/sfx/error_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:error_03": {
+      "id": "sfx:error_03",
+      "kind": "sfx",
+      "path": "brand/sfx/error_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:error_04": {
+      "id": "sfx:error_04",
+      "kind": "sfx",
+      "path": "brand/sfx/error_04.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:fall_short_01": {
+      "id": "sfx:fall_short_01",
+      "kind": "sfx",
+      "path": "brand/sfx/fall_short_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:fall_short_02": {
+      "id": "sfx:fall_short_02",
+      "kind": "sfx",
+      "path": "brand/sfx/fall_short_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:glitch_01": {
+      "id": "sfx:glitch_01",
+      "kind": "sfx",
+      "path": "brand/sfx/glitch_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:glitch_02": {
+      "id": "sfx:glitch_02",
+      "kind": "sfx",
+      "path": "brand/sfx/glitch_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:glitch_03": {
+      "id": "sfx:glitch_03",
+      "kind": "sfx",
+      "path": "brand/sfx/glitch_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:glitch_04": {
+      "id": "sfx:glitch_04",
+      "kind": "sfx",
+      "path": "brand/sfx/glitch_04.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_bell_01": {
+      "id": "sfx:impact_bell_01",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_bell_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_metal_01": {
+      "id": "sfx:impact_metal_01",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_metal_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_metal_02": {
+      "id": "sfx:impact_metal_02",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_metal_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_punch_01": {
+      "id": "sfx:impact_punch_01",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_punch_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_punch_02": {
+      "id": "sfx:impact_punch_02",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_punch_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_soft_01": {
+      "id": "sfx:impact_soft_01",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_soft_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_soft_02": {
+      "id": "sfx:impact_soft_02",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_soft_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_soft_03": {
+      "id": "sfx:impact_soft_03",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_soft_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:impact_soft_04": {
+      "id": "sfx:impact_soft_04",
+      "kind": "sfx",
+      "path": "brand/sfx/impact_soft_04.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:open_01": {
+      "id": "sfx:open_01",
+      "kind": "sfx",
+      "path": "brand/sfx/open_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:open_02": {
+      "id": "sfx:open_02",
+      "kind": "sfx",
+      "path": "brand/sfx/open_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:open_03": {
+      "id": "sfx:open_03",
+      "kind": "sfx",
+      "path": "brand/sfx/open_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:pop_01": {
+      "id": "sfx:pop_01",
+      "kind": "sfx",
+      "path": "brand/sfx/pop_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:pop_02": {
+      "id": "sfx:pop_02",
+      "kind": "sfx",
+      "path": "brand/sfx/pop_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:pop_03": {
+      "id": "sfx:pop_03",
+      "kind": "sfx",
+      "path": "brand/sfx/pop_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:pop_04": {
+      "id": "sfx:pop_04",
+      "kind": "sfx",
+      "path": "brand/sfx/pop_04.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:pop_05": {
+      "id": "sfx:pop_05",
+      "kind": "sfx",
+      "path": "brand/sfx/pop_05.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:pop_06": {
+      "id": "sfx:pop_06",
+      "kind": "sfx",
+      "path": "brand/sfx/pop_06.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:powerup_01": {
+      "id": "sfx:powerup_01",
+      "kind": "sfx",
+      "path": "brand/sfx/powerup_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:powerup_02": {
+      "id": "sfx:powerup_02",
+      "kind": "sfx",
+      "path": "brand/sfx/powerup_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:powerup_03": {
+      "id": "sfx:powerup_03",
+      "kind": "sfx",
+      "path": "brand/sfx/powerup_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:question_01": {
+      "id": "sfx:question_01",
+      "kind": "sfx",
+      "path": "brand/sfx/question_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:question_02": {
+      "id": "sfx:question_02",
+      "kind": "sfx",
+      "path": "brand/sfx/question_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:question_03": {
+      "id": "sfx:question_03",
+      "kind": "sfx",
+      "path": "brand/sfx/question_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:rise_short_01": {
+      "id": "sfx:rise_short_01",
+      "kind": "sfx",
+      "path": "brand/sfx/rise_short_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:rise_short_02": {
+      "id": "sfx:rise_short_02",
+      "kind": "sfx",
+      "path": "brand/sfx/rise_short_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:rise_short_03": {
+      "id": "sfx:rise_short_03",
+      "kind": "sfx",
+      "path": "brand/sfx/rise_short_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:riser_01": {
+      "id": "sfx:riser_01",
+      "kind": "sfx",
+      "path": "brand/sfx/riser_01.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:riser_02": {
+      "id": "sfx:riser_02",
+      "kind": "sfx",
+      "path": "brand/sfx/riser_02.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:scratch_01": {
+      "id": "sfx:scratch_01",
+      "kind": "sfx",
+      "path": "brand/sfx/scratch_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:scratch_02": {
+      "id": "sfx:scratch_02",
+      "kind": "sfx",
+      "path": "brand/sfx/scratch_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:select_01": {
+      "id": "sfx:select_01",
+      "kind": "sfx",
+      "path": "brand/sfx/select_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:select_02": {
+      "id": "sfx:select_02",
+      "kind": "sfx",
+      "path": "brand/sfx/select_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:select_03": {
+      "id": "sfx:select_03",
+      "kind": "sfx",
+      "path": "brand/sfx/select_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:select_04": {
+      "id": "sfx:select_04",
+      "kind": "sfx",
+      "path": "brand/sfx/select_04.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:sub_hit_01": {
+      "id": "sfx:sub_hit_01",
+      "kind": "sfx",
+      "path": "brand/sfx/sub_hit_01.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:tick_01": {
+      "id": "sfx:tick_01",
+      "kind": "sfx",
+      "path": "brand/sfx/tick_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:tick_02": {
+      "id": "sfx:tick_02",
+      "kind": "sfx",
+      "path": "brand/sfx/tick_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:tick_03": {
+      "id": "sfx:tick_03",
+      "kind": "sfx",
+      "path": "brand/sfx/tick_03.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:tick_soft_01": {
+      "id": "sfx:tick_soft_01",
+      "kind": "sfx",
+      "path": "brand/sfx/tick_soft_01.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:toggle_01": {
+      "id": "sfx:toggle_01",
+      "kind": "sfx",
+      "path": "brand/sfx/toggle_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:toggle_02": {
+      "id": "sfx:toggle_02",
+      "kind": "sfx",
+      "path": "brand/sfx/toggle_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:tone_01": {
+      "id": "sfx:tone_01",
+      "kind": "sfx",
+      "path": "brand/sfx/tone_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:tone_02": {
+      "id": "sfx:tone_02",
+      "kind": "sfx",
+      "path": "brand/sfx/tone_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:typing_01": {
+      "id": "sfx:typing_01",
+      "kind": "sfx",
+      "path": "brand/sfx/typing_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "assembled from Kenney CC0 clicks",
+      "attribution_required": false
+    },
+    "sfx:whoosh_01": {
+      "id": "sfx:whoosh_01",
+      "kind": "sfx",
+      "path": "brand/sfx/whoosh_01.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:whoosh_02": {
+      "id": "sfx:whoosh_02",
+      "kind": "sfx",
+      "path": "brand/sfx/whoosh_02.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:whoosh_03": {
+      "id": "sfx:whoosh_03",
+      "kind": "sfx",
+      "path": "brand/sfx/whoosh_03.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:whoosh_04": {
+      "id": "sfx:whoosh_04",
+      "kind": "sfx",
+      "path": "brand/sfx/whoosh_04.wav",
+      "licence": "Generated",
+      "source": "Synthesised locally with FFmpeg",
+      "origin": "synthesised with FFmpeg (pipeline/sfx_setup.py)",
+      "attribution_required": false
+    },
+    "sfx:zap_01": {
+      "id": "sfx:zap_01",
+      "kind": "sfx",
+      "path": "brand/sfx/zap_01.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    },
+    "sfx:zap_02": {
+      "id": "sfx:zap_02",
+      "kind": "sfx",
+      "path": "brand/sfx/zap_02.wav",
+      "licence": "CC0-1.0",
+      "source": "Kenney CC0 sound pack; https://kenney.nl",
+      "origin": "Kenney CC0 sound pack; selected by pipeline/sfx_setup.py",
+      "attribution_required": false
+    }
+  }
+}

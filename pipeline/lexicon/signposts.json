@@ -1,0 +1,23 @@
+{
+  "_comment": "Discourse markers that usually start a new idea. Longest match wins. Used as boundary hints, never as forced cuts.",
+  "signposts": [
+    "simple ga cheppalante",
+    "for example",
+    "ante",
+    "kani",
+    "kaani",
+    "ikkade",
+    "endukante",
+    "anduke",
+    "so",
+    "soo",
+    "alage",
+    "suppose",
+    "mari",
+    "ippudu",
+    "and ikkade",
+    "already",
+    "same problem",
+    "dhintho patu"
+  ]
+}

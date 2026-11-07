@@ -1,0 +1,40 @@
+{
+  "_about": "Generic structure example only. Word indices and creative choices are illustrative; replace them for the real project.",
+  "slug": "my-project",
+  "version": 1,
+  "look": { "accent": "electric", "pairing": "techClean", "personality": "calm", "background": "night", "watermark": "none" },
+  "captions": {
+    "family": "inter", "weight": 700, "size": 64, "y": 1370, "mode": "karaoke", "maxWords": 4,
+    "emphasisRules": ["english"], "emphasisStyle": "color", "background": "shadow", "enter": "fade"
+  },
+  "scenes": [
+    {
+      "id": "s1-hook", "beat": "hook", "wordStart": 0, "wordEnd": 8, "component": "KeywordCard",
+      "transitionIn": { "type": "cut", "frames": 0 },
+      "rationale": "Introduce the central question with one readable phrase before adding detail.",
+      "props": { "text": "The key question", "sub": "A short supporting line", "icon": "lucide:lightbulb", "appearAtWord": 1 }
+    },
+    {
+      "id": "s2-explanation", "beat": "example", "wordStart": 9, "wordEnd": 25, "component": "Composite",
+      "transitionIn": { "type": "fade", "frames": 8 },
+      "rationale": "Show a simple two-step relationship as the voice explains the example.",
+      "props": {
+        "elements": [
+          { "type": "NodeBox", "x": 290, "y": 820, "props": { "x": 120, "y": 700, "w": 300, "h": 180, "label": "Input", "icon": "lucide:arrow-down-to-line", "appearAtWord": 10 } },
+          { "type": "Arrow", "x": 540, "y": 800, "props": { "from": [420, 790], "to": [650, 790], "appearAtWord": 15 } },
+          { "type": "NodeBox", "x": 780, "y": 820, "props": { "x": 660, "y": 700, "w": 300, "h": 180, "label": "Result", "icon": "lucide:check", "appearAtWord": 19 } }
+        ]
+      }
+    },
+    {
+      "id": "s3-close", "beat": "recap", "wordStart": 26, "wordEnd": 34, "component": "BuildList",
+      "transitionIn": { "type": "slide-up", "frames": 8 },
+      "rationale": "Summarize two useful actions as they are spoken, then leave space for the closing line.",
+      "props": { "title": "Remember", "items": [ { "text": "First action", "icon": "lucide:check", "atWord": 27 }, { "text": "Next action", "icon": "lucide:check", "atWord": 31 } ] }
+    }
+  ],
+  "sfx": [
+    { "sfx": "pop_01", "atWord": 1, "gainDb": -18, "reason": "Subtle cue as the key phrase appears." }
+  ],
+  "tailSec": 0.6
+}

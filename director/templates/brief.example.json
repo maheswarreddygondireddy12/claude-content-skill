@@ -1,0 +1,20 @@
+{
+  "_about": "Generic structure example only. Replace all sample ranges and content for the actual project.",
+  "reelType": "explainer",
+  "coreTakeaway": "A clear one-sentence message for the viewer.",
+  "audienceAssumption": "What the intended audience likely knows before watching.",
+  "hook": {
+    "wordStart": 0,
+    "wordEnd": 8,
+    "why": "State why this opening earns attention."
+  },
+  "beats": [
+    { "id": "hook", "intent": "hook", "wordStart": 0, "wordEnd": 8, "summary": "Introduce the question or tension." },
+    { "id": "explanation", "intent": "example", "wordStart": 9, "wordEnd": 25, "summary": "Explain the idea with one concrete example." },
+    { "id": "close", "intent": "recap", "wordStart": 26, "wordEnd": 34, "summary": "Resolve the idea and close clearly." }
+  ],
+  "keyTerms": ["key term"],
+  "emphasisWords": [2, 13],
+  "retentionRisks": ["The explanation may be dense; use a simple visual and allow reading time."],
+  "lookRationale": "Choose colors, type, motion, and captions to match the content and project identity."
+}
